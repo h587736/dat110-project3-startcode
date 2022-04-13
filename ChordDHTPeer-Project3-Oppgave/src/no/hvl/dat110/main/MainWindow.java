@@ -36,7 +36,6 @@ import no.hvl.dat110.middleware.NodeServer;
 import no.hvl.dat110.rpc.interfaces.NodeInterface;
 import no.hvl.dat110.util.FileManager;
 import no.hvl.dat110.util.Util;
-
 /**
  * 
  * @author tdoy
