@@ -2,6 +2,28 @@
 
 ### DHT Cooperative Mirroring with consistency protocol and Distributed Mutual Exclusion.
 
+### Test 1 - Address space and size
+![](assets/Test1.png)
+
+### Test 2 - Creating Replicas of file using the address space (2^128)
+![](assets/Test2.png)
+
+### Test 3 - Lookup logic and findSuccessor function
+![](assets/Test3.png)
+![](assets/Test4.png)
+
+### Test 4 - Distributing file replicas to peers
+![](assets/Test5.png)
+
+### Test 5 - Finding the peers/servers responsible for a file
+![](assets/Test6.png)
+
+### Test 6 - Remote-write protocol
+![](assets/Test7.png)'
+
+### Test 7 - Distributed Mutual Exclusion Algorithm
+![](assets/Test8.png)
+
 ### Organisation
 
 The project work is to be undertaken in groups of 2-4 students - preferably the same groups as for projects 1 & 2.
